@@ -25,5 +25,9 @@
 
 <!-- ![Snake animation](https://github.com/LuisCarlosCruz/LuisCarlosCruz/blob/output/github-contribution-grid-snake.svg) -->
  
+ <div style="color:green">
+   [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuisCarlosCruz&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/LuisCarlosCruz)
+</div>
+ 
  [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuisCarlosCruz&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/LuisCarlosCruz)
 </div>
