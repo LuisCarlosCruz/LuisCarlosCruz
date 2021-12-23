@@ -5,8 +5,13 @@
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=LuisCarlosCruz&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosCruz&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
-<div style="display: inline_block, color:green"><br>
+
+<div>
  [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuisCarlosCruz&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/LuisCarlosCruz)
+</div>
+ 
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
