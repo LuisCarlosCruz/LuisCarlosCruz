@@ -9,25 +9,21 @@
  [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuisCarlosCruz&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/LuisCarlosCruz)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>
-<!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-<!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-<!--   <img align="right" alt="GIF LUIS" src="/*POSSO COLOCAR UM GIF DO PROJETO AQUI*/"> -->
+ <a href="https://api.whatsapp.com/send?phone=5561991397554&text=Ol%C3%A1!" target="_blank"><img align="center" alt="mysql" width="50" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiscarloscruzz/" target="_blank"><img align="center" alt="mysql" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a>
+  <img align="center" alt="Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="vsCode" width="50" src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>
+  <img align="center" alt="git" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img align="center" alt="docker" width="50" src="https://img.icons8.com/fluency/50/000000/docker.png"/>
+  <img align="center" alt="node" width="50" src="https://img.icons8.com/fluency/50/000000/node-js.png"/>
+  <img align="center" alt="mysql" width="50"  src="https://img.icons8.com/fluency/50/000000/mysql-logo.png"/>
+ <!--   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 </div>
 
 ##
-
-<div> 
- <a href="https://api.whatsapp.com/send?phone=5561991397554&text=Ol%C3%A1!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/luiscarloscruzz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
-<!-- ![Snake animation](https://github.com/LuisCarlosCruz/LuisCarlosCruz/blob/output/github-contribution-grid-snake.svg) -->
- 
- <!-- [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuisCarlosCruz&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/LuisCarlosCruz) -->
+<!-- https://icons8.com.br/ -->
+ <a src="https://icons8.com.br/">Icones</a>
 </div>
