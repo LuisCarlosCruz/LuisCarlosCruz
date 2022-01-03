@@ -8,22 +8,24 @@
 
  [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuisCarlosCruz&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/LuisCarlosCruz)
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br> 
  <a href="https://api.whatsapp.com/send?phone=5561991397554&text=Ol%C3%A1!" target="_blank"><img align="center" alt="mysql" width="50" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiscarloscruzz/" target="_blank"><img align="center" alt="mysql" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a>
-  <img align="center" alt="Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="vsCode" width="50" src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>
-  <img align="center" alt="git" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-  <img align="center" alt="docker" width="50" src="https://img.icons8.com/fluency/50/000000/docker.png"/>
-  <img align="center" alt="node" width="50" src="https://img.icons8.com/fluency/50/000000/node-js.png"/>
-  <img align="center" alt="mysql" width="50"  src="https://img.icons8.com/fluency/50/000000/mysql-logo.png"/>
+ <a href="" target="_blank"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" align="center" alt="Gmail logo" width="50"></a>
+  <img align="center" alt="Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="vsCode" width="40" src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>
+  <img align="center" alt="git" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img align="center" alt="docker" width="40" src="https://img.icons8.com/fluency/50/000000/docker.png"/>
+  <img align="center" alt="node" width="40" src="https://img.icons8.com/fluency/50/000000/node-js.png"/>
+  <img align="center" alt="mysql" width="40"  src="https://img.icons8.com/fluency/50/000000/mysql-logo.png"/>
+ 
  <!--   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 </div>
 
 ##
 <!-- https://icons8.com.br/ -->
- <a src="https://icons8.com.br/">Icones</a>
+ Icons by: <a href="https://icons8.com.br/">Icones</a>
 </div>
