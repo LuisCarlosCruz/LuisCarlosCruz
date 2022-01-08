@@ -24,6 +24,8 @@
  
  <!--   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 </div>
+ 
+ <img src="https://profile-counter.glitch.me/LuisCarlosCruz/count.svg" />
 
 ##
 <!-- https://icons8.com.br/ -->
