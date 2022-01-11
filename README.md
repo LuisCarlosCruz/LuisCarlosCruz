@@ -14,6 +14,7 @@
  <a href="" target="_blank"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" align="center" alt="Gmail logo" width="50"></a>
   <img align="center" alt="Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="typescript" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img align="center" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vsCode" width="40" src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>
