@@ -6,7 +6,7 @@
   <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosCruz&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
 
- [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuisCarlosCruz&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/LuisCarlosCruz)
+<!--  [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuisCarlosCruz&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/LuisCarlosCruz) -->
 
 <div style="display: inline_block" align="center"><br> 
  <a href="https://api.whatsapp.com/send?phone=5561991397554&text=Ol%C3%A1!" target="_blank"><img align="center" alt="mysql" width="50" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a>
