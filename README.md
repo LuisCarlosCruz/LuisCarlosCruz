@@ -1,4 +1,4 @@
-<img src='./github-header.png' height="148em"/>
+<img src='./img-header.png' height="148em"/>
 
  <div>
   <a href="https://github.com/LuisCarlosCruz">
