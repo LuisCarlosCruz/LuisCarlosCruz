@@ -1,10 +1,10 @@
-<img src='./img-header.png' height="148em"/>
-
- <div>
+<div align="center">
+ <img src='./img-header.png' height="148em"/>
   <a href="https://github.com/LuisCarlosCruz">
   <img height="158em" src="https://github-readme-stats.vercel.app/api?username=LuisCarlosCruz&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosCruz&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
+
 
 <!--  [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LuisCarlosCruz&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/LuisCarlosCruz) -->
 
