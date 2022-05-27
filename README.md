@@ -3,6 +3,7 @@
   <a href="https://github.com/LuisCarlosCruz">
   <img height="158em" src="https://github-readme-stats.vercel.app/api?username=LuisCarlosCruz&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosCruz&layout=compact&langs_count=7&theme=slateorange"/>
+   <h4>Sou estudante e desenvolvedor de software, busco contribuir com a minha formação conhecimento como desenvolvedor de software sob a supervisão e estímulo de uma empresa comprometida com a inovação e que faça diferença nas vidas das pessoas. Possuo foco em desenvolvimento com Javascript, ReactJs, NodeJs, Typescript, Docker, Mysql dentre outras tecnologias que uso para criar aplicações web.</h4>
 </div>
 
 
