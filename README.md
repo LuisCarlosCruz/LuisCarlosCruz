@@ -13,6 +13,7 @@
 <!--  <a href="https://api.whatsapp.com/send?phone=5561991397554&text=Ol%C3%A1!" target="_blank"><img align="center" alt="mysql" width="50" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/luiscarloscruzz/" target="_blank"><img align="center" alt="mysql" width="50" src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a>
 <!--  <a href="" target="_blank"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" align="center" alt="Gmail logo" width="50"></a> -->
+<img align="center" alt="Java" width="40" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png">
   <img align="center" alt="Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="typescript" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/>
