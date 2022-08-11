@@ -25,8 +25,14 @@
   <img align="center" alt="docker" width="40" src="https://img.icons8.com/fluency/50/000000/docker.png"/>
   <img align="center" alt="node" width="40" src="https://img.icons8.com/fluency/50/000000/node-js.png"/>
   <img align="center" alt="mysql" width="40"  src="https://img.icons8.com/fluency/50/000000/mysql-logo.png"/>
-  
   <img align="center" alt="figma" width="40"  src="https://img.icons8.com/color/344/figma--v1.png"/>
+  <img align="center" alt="npm" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+  <img align="center" alt="sequelize" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
+  <img align="center" alt="sequelize" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+  <img align="center" alt="mocha" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"/>
+  <img align="center" alt="heroku" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
+  
+  
  
  <!--   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 </div>
