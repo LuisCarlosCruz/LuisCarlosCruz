@@ -1,10 +1,10 @@
 <div align="center">
    <img src='./img-header.png' height="148em"/>
-   <img height="158em" src="https://github-readme-stats.vercel.app/api?username=LuisCarlosCruz&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-   <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosCruz&layout=compact&langs_count=7&theme=slateorange"/>
+<!--    <img height="158em" src="https://github-readme-stats.vercel.app/api?username=LuisCarlosCruz&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+   <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCarlosCruz&layout=compact&langs_count=7&theme=slateorange"/> -->
    <h4>Sou estudante e desenvolvedor de software. Possuo foco em desenvolvimento com Javascript, ReactJs, NodeJs, Typescript, Docker, Mysql dentre outras tecnologias que uso para criar aplicações web.</h4>
 </div>
-<div style="display: inline_block" align="center"><br> 
+<!-- <div style="display: inline_block" align="center"><br> 
    <img align="center" alt="Java" width="40" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png">
    <img align="center" alt="mongodb" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png">
    <img align="center" alt="Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,4 +26,4 @@
 </div>
 <div align="left">
    Icons by: <a href="https://icons8.com.br/">Icones</a>
-</div>
+</div> -->
